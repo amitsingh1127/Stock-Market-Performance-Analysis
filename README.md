@@ -86,6 +86,22 @@ The code covers tasks such as downloading historical stock data, visualizing sto
 
 ### Example Visualizations
 ### Stock Price Over Time
+![Stock Price Over Time](img/price.png)
+
+### Moving Average
+![Apple Stock Moving Average](img/movingAvgApple.png)
+![Google Stock Moving Average](img/movingAvgGoogl)
+![Microsoft Stock Moving Average](img/movingAvgMCS.png)
+![Netflix Stock Moving Average](img/movingAvgNet.png)
+
+### Volatility Analysis
+![Volatility of All Companies](img/volatility.png)
+
+### Correlation between Apple and Microsoft
+![Correlation](img/correlation.png)
+
+
+
 
 
 
